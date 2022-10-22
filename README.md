@@ -5,5 +5,9 @@ my macOS configuration
 
 - [item colors](./tokyo-night-custom.itermcolors)
 
+- Preview
+
+![Image](./images/iterm_screen_shot.png)
+
 ## Neovim config
 - [Init file](./vim.init)
