@@ -11,3 +11,10 @@ my macOS configuration
 
 ## Neovim config
 - [Init file](./vim.init)
+
+## ZSH plugins
+- [thefuck](https://github.com/nvbn/thefuck)
+- [fzf](https://github.com/junegunn/fzf)
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
