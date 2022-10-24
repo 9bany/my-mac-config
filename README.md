@@ -19,3 +19,4 @@ my macOS configuration
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 - [autojump](https://github.com/wting/autojump) 
+- [kubectx](https://github.com/ahmetb/kubectx)
